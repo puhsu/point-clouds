@@ -12,4 +12,4 @@ conda install pytorch torchvision scipy matplotlib open3d=0.7 tqdm jupyter -c py
 jupyter notebook
 ```
 
-Then use [point_cloud.ipynb](./point_cloud.ipynb) to train and evaluate model.
+Then use [point_clouds.ipynb](./point_clouds.ipynb) to train and evaluate model.
