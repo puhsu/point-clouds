@@ -13,3 +13,4 @@ jupyter notebook
 ```
 
 Then use [point_clouds.ipynb](./point_clouds.ipynb) to train and evaluate model.
+Resulting point cloud trained without camera supervision: https://youtu.be/_8aONZdoBzQ
